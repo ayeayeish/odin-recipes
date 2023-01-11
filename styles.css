@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: 250px;
+    margin-left: 40%;
+    
+}
+
+h1, h2, h3, p, ul, ol, li {
+    text-align: center;
+    list-style-position: inside;
+}
